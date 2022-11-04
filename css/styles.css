@@ -1,0 +1,55 @@
+body{
+  background-color:#000000;
+    Font-family:arial;
+    font-size:1.25rem;
+    color:#59CE8F;
+}
+a:link{
+  color:#59CE8F;
+}
+a:visited{
+  color:#59CE8F;
+}
+a:hover{
+  color:#FFFF00;
+}
+.profilePic{
+
+Height:400px;
+Width:400px;
+}
+.profileAlignment{
+  Padding-left:20%;
+  Padding-right:20%;
+}
+.centerTable{
+Margin-left:auto;
+Margin-right:auto;
+}
+.linkcells{
+Padding:10px;
+}
+.infoAlignment{
+  Margin-left:auto;
+  Margin-right:auto;
+}
+.headOneAlign{
+  text-align:center;
+}
+ol{
+  list-style-type:upper-roman;
+}
+.olLevelTwo{
+  list-style-type:lower-roman;
+}
+.ulListType{
+  list-style-type:none;
+}
+.songTitle{
+  font-weight:bold;
+  font-style:italic;
+  Display:inline;
+}
+.liUnderline{
+  Display:inline;
+}
